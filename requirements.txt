@@ -1,6 +1,6 @@
-git+https://github.com/KurimuzonAkuma/pyrogram@ba49bbff6e37cca6174d0620ef6813960d9d85b6
+git+https://github.com/KurimuzonAkuma/pyrogram@9ec94e01e8a9d3653d587d39e06856da4a030fbc
 tgcrypto>=1.2.5
-yt-dlp>=2024.11.18
+yt-dlp==2024.12.3
 APScheduler>=3.11.0
 ffmpeg-python>=0.2.0
 PyMySQL>=1.1.1
